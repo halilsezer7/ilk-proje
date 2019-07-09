@@ -1,6 +1,5 @@
 .container #logo {
     width: 300px;
-    height: 100px;
 }
 
 #header .row2 img {
@@ -63,7 +62,6 @@
 .about-content .sponsor img {
     padding: 20px;
     width: 130px;
-    height: 130px;
 }
 
 #contant {
